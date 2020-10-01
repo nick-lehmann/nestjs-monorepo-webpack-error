@@ -5,6 +5,7 @@ Nestjs webpack error
 
 ```bash
 > git clone https://github.com/nick-lehmann/nestjs-monorepo-webpack-error
+> cd nestjs-monorepo-webpack-error
 > npx lerna bootstrap --use-workspaces
 ```
 
